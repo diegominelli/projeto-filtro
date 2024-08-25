@@ -8,7 +8,7 @@ export const usersList: IUser[] = [
     "idade": 30,
     "endereco": {
       "rua": "Rua do Bairro",
-      "numero": 2,
+      "numero": 42,
       "cidade": "São Paulo",
       "estado": "SP",
       "pais": "Brasil",
