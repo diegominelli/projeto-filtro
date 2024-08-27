@@ -60,7 +60,7 @@ export const UsersList: IUser[] = [
       "pais": "Brasil",
     },
     "telefone": "11974859636",
-    "ativo": true,
+    "ativo": false,
     "funcao": "Vendedora",
     "dataCadastro": "2020-01-25T21:06:00.000Z",
     "status": {
@@ -83,7 +83,7 @@ export const UsersList: IUser[] = [
       "pais": "Brasil",
     },
     "telefone": "11985140269",
-    "ativo": true,
+    "ativo": false,
     "funcao": "Publicitária",
     "dataCadastro": "2005-12-15T03:50:00.000Z",
     "status": {
