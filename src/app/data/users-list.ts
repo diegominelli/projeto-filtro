@@ -32,7 +32,7 @@ export const UsersList: IUser[] = [
     "endereco": {
       "rua": "Rua do Cardeiro",
       "numero": 968,
-      "cidade": "Guarulhos",
+      "cidade": "Itú",
       "estado": "SP",
       "pais": "Brasil",
     },
