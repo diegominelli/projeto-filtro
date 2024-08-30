@@ -1,5 +1,5 @@
-import { IAddress } from "./address.interface"
-import { IStatus } from "./status.interface"
+import { IAddress } from './address.interface';
+import { IStatus } from './status.interface';
 
 export interface IUser {
   nome: string;
