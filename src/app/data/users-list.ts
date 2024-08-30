@@ -16,12 +16,12 @@ export const UsersList: IUser[] = [
     telefone: '11985741452',
     ativo: true,
     funcao: 'Motorista',
-    dataCadastro: '2022-08-01T09:00:00.000Z',
+    dataCadastro: '2024-06-01T09:00:00.000Z',
     status: {
       online: true,
       verificado: true,
       assinaturaAtiva: true,
-      ultimoAcesso: '2023-08-02T09:00:00.000Z',
+      ultimoAcesso: '2024-08-02T09:00:00.000Z',
     },
   },
   {
@@ -39,12 +39,12 @@ export const UsersList: IUser[] = [
     telefone: '11963524174',
     ativo: false,
     funcao: 'Garí',
-    dataCadastro: '2020-06-23T10:00:00.000Z',
+    dataCadastro: '2024-05-23T10:00:00.000Z',
     status: {
       online: true,
       verificado: true,
       assinaturaAtiva: true,
-      ultimoAcesso: '2021-05-22T23:00:00.000Z',
+      ultimoAcesso: '2024-06-22T23:00:00.000Z',
     },
   },
   {
@@ -62,12 +62,12 @@ export const UsersList: IUser[] = [
     telefone: '11974859636',
     ativo: true,
     funcao: 'Vendedora',
-    dataCadastro: '2020-01-25T21:06:00.000Z',
+    dataCadastro: '2024-01-25T21:06:00.000Z',
     status: {
       online: true,
       verificado: true,
       assinaturaAtiva: true,
-      ultimoAcesso: '2022-10-22T05:45:00.000Z',
+      ultimoAcesso: '2024-10-22T05:45:00.000Z',
     },
   },
   {
@@ -85,12 +85,12 @@ export const UsersList: IUser[] = [
     telefone: '11985140269',
     ativo: false,
     funcao: 'Publicitária',
-    dataCadastro: '2005-12-15T03:50:00.000Z',
+    dataCadastro: '2024-09-15T03:50:00.000Z',
     status: {
       online: true,
       verificado: true,
       assinaturaAtiva: true,
-      ultimoAcesso: '2008-11-19T02:20:00.000Z',
+      ultimoAcesso: '2024-11-19T02:20:00.000Z',
     },
   },
 ];
